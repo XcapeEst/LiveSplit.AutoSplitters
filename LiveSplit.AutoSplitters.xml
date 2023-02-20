@@ -17467,4 +17467,12 @@
         <Description>Autosplitting by Micrologist</Description>
         <Website>https://github.com/Micrologist/LiveSplit.GardenOfBanan</Website>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+			<Game>Plazma Burst 2</Game>
+		</Games>
+		<Type>Script</Type>
+		<Description>Auto Splitting is available. (By xCape)</Description>
+		<Website>https://github.com/XcapeEst/LiveSplit.PlazmaBurst2</Website>
+	</AutoSplitter>
 </AutoSplitters>
